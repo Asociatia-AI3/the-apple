@@ -12,6 +12,10 @@ Acest repository conține codul Arduino pentru controlul câmpurilor de vopsea e
 
 Demonstrarea utilizării Arduino pentru a controla creativ vopseaua electroluminiscentă Lumilor pe un obiect tridimensional, în acest caz, un măr de lemn de dimensiuni semnificative. Prin modularea semnalelor PWM, se pot obține efecte de pulsație, estompare și alte animații luminoase captivante.
 
+Schema electrică de principiu este aici:
+<img width="1075" alt="the-apple" src="https://github.com/user-attachments/assets/5237c5a5-828c-4d76-aec6-3fd5d06f3191" />
+
+
 **Cuvinte cheie:** Arduino, PWM, Lumilor, vopsea electroluminiscentă, artă cinetică, sculptură luminoasă, proiect DIY.
 
 ## Instrucțiuni de Setare și Rulare
